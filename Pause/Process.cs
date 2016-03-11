@@ -1,8 +1,8 @@
 ﻿using System;
-using ObjCRuntime;
 using AppKit;
 using Foundation;
 using CoreGraphics;
+using ObjCRuntime;
 
 namespace Pause
 {
